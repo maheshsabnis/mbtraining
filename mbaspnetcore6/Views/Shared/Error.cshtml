@@ -1,0 +1,40 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model != null)
+{
+
+    @if (Model.ShowRequestId)
+    {
+        <p>
+            <strong>Request ID:</strong> <code>@Model.RequestId</code>
+        </p>
+    }
+
+    <h3>Development Mode</h3>
+
+    <h4>An Error Occured while Processing the Reqiest in @Model.ControllerName Controller in @Model.ActionName method </h4>
+    <hr />
+    <h4>
+        Error Message : @Model.ErrorMessage
+    </h4>
+
+    <hr />
+    <a asp-controller="@Model.ControllerName" asp-action="@Model.ActionName">Go Back</a>
+}
+else
+{
+    <h4>An Error Occured while Processing the Reqiest in @ViewData["ControllerName"] Controller in @ViewData["ActionName"] method </h4>
+    <hr />
+    <h4>
+        Error Message : @ViewData["ErrorMessage"]
+    </h4>
+
+    <hr />
+    <a asp-controller="@ViewData["ControllerName"]" asp-action="@ViewData["ActionName"]">Go Back</a>
+}

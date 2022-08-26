@@ -1,0 +1,25 @@
+﻿@model ProfileInfo
+
+<h1>Uploading Image</h1>
+
+<form enctype="multipart/form-data" asp-action="Upload">
+    <div class="form-group">
+        <label asp-for="@Model.Picture"></label>
+        <input type="file" asp-for="@Model.Picture" />
+    </div>
+    <hr />
+    <div class="container">
+        @Model.UploadStatus
+    </div>
+    <hr />
+    @if (Model.FileName != String.Empty)
+    {
+        <img src="~/images/@Model.FileName"
+             class="rounded-circle"
+             height="200"
+             width="200" />
+    }
+
+    <hr />
+    <input class="btn btn-primary" type="submit" value="Upload File" />
+</form>

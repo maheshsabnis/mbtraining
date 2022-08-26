@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Application.Dal.Contract/1.0.0": {
+        "dependencies": {
+          "Application.Entities.Base": "1.0.0"
+        },
+        "runtime": {
+          "Application.Dal.Contract.dll": {}
+        }
+      },
+      "Application.Entities.Base/1.0.0": {
+        "runtime": {
+          "Application.Entities.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Dal.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.Entities.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

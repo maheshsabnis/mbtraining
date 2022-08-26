@@ -1,0 +1,15 @@
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/bin/Debug/net6.0/CS_GenericClass
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/bin/Debug/net6.0/CS_GenericClass.deps.json
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/bin/Debug/net6.0/CS_GenericClass.runtimeconfig.json
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/bin/Debug/net6.0/CS_GenericClass.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/bin/Debug/net6.0/CS_GenericClass.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.csproj.AssemblyReference.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.AssemblyInfoInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.AssemblyInfo.cs
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.csproj.CoreCompileInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/refint/CS_GenericClass.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/CS_GenericClass.genruntimeconfig.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_GenericClass/obj/Debug/net6.0/ref/CS_GenericClass.dll

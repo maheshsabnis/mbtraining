@@ -1,0 +1,15 @@
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/bin/Debug/net6.0/Application.Dal.Contract.deps.json
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/bin/Debug/net6.0/Application.Dal.Contract.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/bin/Debug/net6.0/Application.Dal.Contract.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/bin/Debug/net6.0/Application.Entities.Base.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/bin/Debug/net6.0/Application.Entities.Base.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.csproj.AssemblyReference.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.AssemblyInfoInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.AssemblyInfo.cs
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.csproj.CoreCompileInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.csproj.CopyComplete
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/refint/Application.Dal.Contract.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/Application.Dal.Contract.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Dal.Contract/obj/Debug/net6.0/ref/Application.Dal.Contract.dll

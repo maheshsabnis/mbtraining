@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4c7yxjFYHu6tfISS7RIXe2zGofIibkyJYslWkw7JrlZISFR5CdUB+ZJQBNHILUynoZKqNPuE1PF5SIq4C/5AA==",
+  "success": true,
+  "projectFilePath": "/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/CS_AsyncADONET/CS_AsyncADONET.csproj",
+  "expectedPackageFiles": [
+    "/Users/mahesh/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/mahesh/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

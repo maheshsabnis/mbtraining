@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Showing EMployee List in the Partial View</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@foreach (var emp in Model)
+ {
+    <div>
+        <!--Loading Employee Partial View and passing the model class as Employee (emp) to it-->
+        <partial name="Employee" model="emp" />
+        <hr/>
+    </div>       
+ }
+

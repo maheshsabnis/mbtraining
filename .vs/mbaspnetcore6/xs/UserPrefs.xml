@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{D612899E-D472-469D-B3BE-4F9242EA0081}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DisconnectedArchitecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SP__InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dbconnectedarchi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CS__GenericClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MVC__Code__First PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Data.DataAccess/EmployeeDataAccess.cs" relfile="Application.Data.DataAccess/EmployeeDataAccess.cs" line="18" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CS__AsyncADONET PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MVC__DbFirst PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.ItemProperties.mbaspnetcore6 PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignments.md">
+    <Files>
+      <File FileName="mbaspnetcore6/Views/Role/AssignRoleToUser.cshtml" Line="34" Column="1" />
+      <File FileName="mbaspnetcore6/Controllers/RoleController.cs" Line="72" Column="10" />
+      <File FileName="mbaspnetcore6/Controllers/DepartmentController.cs" Line="182" Column="41" />
+      <File FileName="mbaspnetcore6/Program.cs" Line="49" Column="6" />
+      <File FileName="Application.Data.DataAccess/DepartmentDataAccess.cs" Line="1" Column="1" />
+      <File FileName="mbaspnetcore6/Views/Department/Create.cshtml" Line="2" Column="5" />
+      <File FileName="mbaspnetcore6/Views/Department/Index.cshtml" Line="6" Column="1" />
+      <File FileName="readme.md" Line="536" Column="20" />
+      <File FileName="mbaspnetcore6/Views/_ViewImports.cshtml" Line="4" Column="38" />
+      <File FileName="mbaspnetcore6/CustomTagHelper/ListGenerator.cs" Line="32" Column="33" />
+      <File FileName="mbaspnetcore6/Views/Department/CustomTag.cshtml" Line="5" Column="45" />
+      <File FileName="mbaspnetcore6/Repositories/DepartmentRepository.cs" Line="86" Column="1" />
+      <File FileName="mbaspnetcore6/Models/ResponseStatus.cs" Line="15" Column="1" />
+      <File FileName="mbaspnetcore6/CustomFilters/LogFilterAttribute.cs" Line="40" Column="1" />
+      <File FileName="mbaspnetcore6/Views/Employee/Employee.cshtml" Line="43" Column="34" />
+      <File FileName="mbaspnetcore6/Controllers/EmployeeController.cs" Line="26" Column="1" />
+      <File FileName="mbaspnetcore6/Views/Employee/List.cshtml" Line="18" Column="14" />
+      <File FileName="mbaspnetcore6/Views/Employee/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Assignments.md" Line="145" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mbaspnetcore6" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Assignments.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

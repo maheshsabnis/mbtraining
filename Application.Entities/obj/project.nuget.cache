@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZT+N0NTTVPC0dcgo9wYS0YQrb1hfMmLn7RHrjG+Ixi5QnrtHv8wENcC4KCr7C+ODIPCxIsPvuMIASetu84W9A==",
+  "success": true,
+  "projectFilePath": "/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities/Application.Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/mahesh/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
