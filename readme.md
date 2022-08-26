@@ -1,4 +1,4 @@
-﻿# ASP.NET Core 6
+﻿# ASP.NET Core 6 MVC
 
 1. Eco-System For Building Modern Web Apps
     - Object Models
